@@ -1,0 +1,41 @@
+header {
+    background-color: lightblue 
+} 
+
+header img {
+    margin: 50px
+}
+
+   body{
+    font-family: sans-serif;
+    margin: 10px;
+    font-size: 20px;
+}
+
+h1 {
+
+    color: lightpink;
+    
+}
+
+
+footer p{
+    border-color:green;
+}
+
+nav {
+    border: 1px solid lightblue;
+    color: blue;
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+}
+
+nav a{
+    text-decoration: none;
+    margin: 20px;
+}
+
+main p{
+    background-color: green;
+}
